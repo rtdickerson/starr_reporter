@@ -1,7 +1,7 @@
 # starr_reporter
-Ingest STARR test reports from TEA and make reports.
+Ingest STAAR test reports from TEA and make reports.
 
-The STARR reports 3 outcomes:
+The STAAR reports 3 outcomes:
 
 Approaches Grade Level: Performance in this category indicates that students are likely to succeed in the next grade or course with targeted academic intervention. Students in this category generally demonstrate the ability to apply the assessed knowledge and skills in familiar contexts.
 
