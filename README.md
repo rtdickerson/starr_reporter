@@ -19,3 +19,6 @@ If we liken the STARR test results to an aircraft carrier.. the "met" guys stuck
 
 This tool will parse their data and re-organizes it so you can actually see trends and performance data.  The output is a CSV file that you can import into Excel.
 
+Source: https://tea.texas.gov/student-assessment/student-assessment-results/statewide-summary-reports
+
+
